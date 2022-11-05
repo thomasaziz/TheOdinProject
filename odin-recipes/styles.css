@@ -4,6 +4,21 @@ h1{
 }
 
 .recipe-link{
+    display: flex;
     font-size: 35px;
+    justify-content: center;
+    align-items: center;
 }
 
+.recipe-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgwrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
